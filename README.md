@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# About Me
+![Code Gif](https://media.giphy.com/media/eVSqI3mZYfaDIXYsnS/giphy.gif)
+<br>
+![GitHub followers](https://img.shields.io/github/followers/AaronCaiii?style=social)
+![macOS Version](https://img.shields.io/badge/macOS-12.4-blue)
 <!--
 **AaronCaiii/AaronCaiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Orange Cyberdefense.
+- 🌱 I’m currently learning OSCP(Offensive Security Certified Professional)
