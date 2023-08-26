@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Orange Cyberdefense.
-- 🌱 I’m currently learning OSCP(Offensive Security Certified Professional)
+- 🌱 OSCPer(Offensive Security Certified Professional)
 <br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronCaiii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
